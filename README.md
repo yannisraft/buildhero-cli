@@ -1,2 +1,2 @@
-# buildhero.cli
-The CLI Tool for BuildHero
+# The BuildHero CLI tool
+The CLI tool for Initializing BuildHero new Project
